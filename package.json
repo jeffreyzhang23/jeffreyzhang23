@@ -1,6 +1,6 @@
 {
   "name": "jeffreyzhang23",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hi, I am _PHONY23",
   "main": "index.js",
   "bin": {
@@ -17,6 +17,6 @@
   "license": "MIT",
   "bugs": "https://github.com/jeffreyzhang23/jeffreyzhang23",
   "dependencies": {
-    "open": "^9.1.0"
+    "open": "^8.2.1"
   }
 }
