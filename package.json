@@ -1,0 +1,22 @@
+{
+  "name": "jeffreyzhang23",
+  "version": "0.0.1",
+  "description": "Hi, I am _PHONY23",
+  "main": "index.js",
+  "bin": {
+    "jeffreyzhang23": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreyzhang23/jeffreyzhang23.git"
+  },
+  "author": "1925182778@qq.com",
+  "license": "MIT",
+  "bugs": "https://github.com/jeffreyzhang23/jeffreyzhang23",
+  "dependencies": {
+    "open": "^9.1.0"
+  }
+}
